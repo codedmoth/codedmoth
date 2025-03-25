@@ -4,7 +4,6 @@ Frankly, I don't know what else to put here LOL.
 
 ### Projects
   *No public projects...*
-  *however I am working on 'HolyRPC', a python script that does Discord Rich presense for some games... might be public in 2037? LOL*
 
 ### Contact Me
 If you are to contact me, follow [NoHello.net](https://www.nohello.net)
@@ -15,11 +14,13 @@ You can contact me via: (in order of most likely to get a response)
  - [Telegram](https://t.me/codedmoth) at codedmoth
  - [Bluesky](https://codedmoth.bsky.social) at codedmoth.bsky.social
  - [Email](mailto:codedmoth@gmail.com) at codedmoth<span>@<span>gmail.com
+    
+<sup>small note: if you call me, i will block you. (unless i give **explicit** consent)</sup>
+
 I also have:
  - [Gitlab](https://gitlab.com/distractedcode) with handle distractedcode
    
-   
-<sup>small note: if you call me, i will block you. (unless i give **explicit** consent)<sup>
+
 
 #### I know..
  - Python (perferred)
@@ -32,3 +33,5 @@ I also have:
  - Rust
  - C/C#/C++...
    I don't know the difference.
+
+<sup>I sign commits now, starting 3/25/2025.</sup>
