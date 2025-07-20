@@ -1,6 +1,5 @@
 ## Hello!
-I'm code, a 16 y/o "programmer". I go by they/them.
-Frankly, I don't know what else to put here LOL.
+I'm code, a 16 y/o "programmer". I go by it/its/they/them.
 
 ### Projects
   *No public projects...*
