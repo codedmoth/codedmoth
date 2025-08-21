@@ -15,7 +15,7 @@ jobs:
       - name: Mirror to GitLab
         env:
           # Use the secret you created in Step 2
-          GITLAB_TOKEN: ${{ secrets.GITLAB_ACCESS_TOKEN }}
+          GITLAB_TOKEN: ${{ secrets.GITLAB_SECRET }}
         run: |
           # The URL for the GitLab repository, using the token for authentication
           GITLAB_URL="https://oauth2:${GITLAB_TOKEN}@gitlab.com/codedmoth/codedmoth.git"
