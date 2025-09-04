@@ -17,7 +17,7 @@ You can contact me via: (in order of most likely to get a response)
 <sup>small note: if you call me, i will block you. (unless i give **explicit** consent)</sup>
 
 I also have:
- - [Gitlab](https://gitlab.com/distractedcode) with handle distractedcode
+ - [Gitlab](https://gitlab.com/codedmoth) with handle codedmoth
    
 
 
