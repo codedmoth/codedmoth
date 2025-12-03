@@ -15,6 +15,7 @@ You can contact me via: (in order of most likely to get a response)
  - [Email](mailto:codedmoth@use.startmail.com) at codedmoth<span>@<span>use.startmail.com
     
 <sup>small note: if you call me, i will block you. (unless i give **explicit** consent)</sup>
+<sup>generally applys to people i do not know. i am more lenient with friends.</sup>
 
 I also have:
  - [Gitlab](https://gitlab.com/codedmoth) with handle codedmoth
