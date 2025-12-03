@@ -12,7 +12,7 @@ You can contact me via: (in order of most likely to get a response)
  - [Discord](https://www.discord.com/users/694558289744232551) at codedmoth
  - [Telegram](https://t.me/codedmoth) at codedmoth
  - [Bluesky](https://bsky.app/profile/codedmoth.github.io) at codedmoth.github.io
- - [Email](mailto:codedmoth@gmail.com) at codedmoth<span>@<span>gmail.com
+ - [Email](mailto:codedmoth@use.startmail.com) at codedmoth<span>@<span>use.startmail.com
     
 <sup>small note: if you call me, i will block you. (unless i give **explicit** consent)</sup>
 
