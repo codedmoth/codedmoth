@@ -12,10 +12,10 @@ You can contact me via: (in order of most likely to get a response (doesn't mean
  - Matrix (primary): @codedmoth:beeper.com <!-- I don't know the URI for Matrix ... browsers don't seem to like mxc:// -->
  - Matrix (secondary): @codedmoth:matrix.org 
  - [Signal](https://signal.me/#eu/KopjTwUlTRev8ymkAtLjOfCa4u4aUvEj5QGwvZ9XlJSQ3XjwGwZENpvE88saKVR5) at codedmoth.49
- - <!-- [Telegram](https://t.me/codedmoth) at codedmoth --> <!-- I don't have this tied to Beeper, or installed. Yes, I am aware you can read these comments in the source.-->
  - [Bluesky](https://bsky.app/profile/codedmoth.github.io) at codedmoth.github.io <!-- May remove - I don't use Social Media very often, and Bluesky even rarer. -->
  - [Email](mailto:codedmoth@use.startmail.com) at codedmoth<span>@<span>use.startmail.com
  - [Discord](https://www.discord.com/users/694558289744232551) at codedmoth <!-- May remove at a later point in time -->
+ <!-- - [Telegram](https://t.me/codedmoth) at codedmoth --> <!-- I don't have this tied to Beeper, or installed. Yes, I am aware you can read these comments in the source.-->
     
 <sup>small note: if you call me, i will block you. (unless i give **explicit** consent)</sup>
 
